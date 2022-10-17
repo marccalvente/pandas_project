@@ -131,4 +131,5 @@ dmypy.json
 # Presonalized ignores
 Instructions.txt
 Hypothesis.txt
+Pruebas_datasets_genericos.ipynb
 data/attacks.csv
