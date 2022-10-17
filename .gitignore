@@ -128,5 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# File with the instructions for the project
+# Presonalized ignores
 Instructions.txt
+Hypothesis.txt
+data/attacks.csv
